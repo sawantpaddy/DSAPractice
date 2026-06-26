@@ -2,6 +2,8 @@ package tuf;
 
 import java.util.Arrays;
 
+/*Given an integer array nums, move all the 0's to the end of the array. 
+The relative order of the other elements must remain the same.*/
 public class MoveZerosToEnd {
 
     public static void moveZerosToEnd(int[] arr) {
